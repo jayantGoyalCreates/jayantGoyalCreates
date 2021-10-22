@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jayantGoyalCreates
 - 👀 I’m interested in Programming and Web Devolopment
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Phone No:- 9340992250;            Email:- jayantgoyal.work@gmail.com           Alt. Email:- soccerjayant@gmail.com  
 
 <!---
 jayantGoyalCreates/jayantGoyalCreates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
